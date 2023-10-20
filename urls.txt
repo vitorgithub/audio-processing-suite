@@ -1,0 +1,12 @@
+# ======================= INSTRUÇÕES =======================
+# 1. Não modifique ou remova as linhas de comentários (linhas que começam com '#').
+# 2. Se você tiver links do YouTube dos quais deseja baixar os vídeos, insira-os abaixo deste comentário.
+# 3. Certifique-se de que os links estejam um em cada linha.
+# 4. Se você preferir usar vídeos locais, certifique-se de que este arquivo esteja vazio (sem URLs) ou contenha apenas comentários.
+# 5. Não adicione nada após o comentário 'FIM'.
+# 
+# ===================== INSIRA SEUS LINKS ABAIXO =====================
+# 
+# 
+# 
+# ============================== FIM ==============================
