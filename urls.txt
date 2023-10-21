@@ -6,14 +6,7 @@
 # 5. Não adicione nada após o comentário 'FIM'.
 # 
 # ===================== INSIRA SEUS LINKS ABAIXO =====================
-https://www.youtube.com/watch?v=A2-yU3YjB1U&ab_channel=FabioAkita
-https://www.youtube.com/watch?v=wcGGklDfHM4&ab_channel=FabioAkita
-https://www.youtube.com/watch?v=KdaRLJg5YJg&ab_channel=FabioAkita
-https://www.youtube.com/watch?v=3W-8TQJwuWY&ab_channel=FabioAkita
-https://www.youtube.com/watch?v=DGU1awKrNiA&ab_channel=FabioAkita
-https://www.youtube.com/watch?v=Hrg0MnyE2jM&ab_channel=FabioAkita
-https://www.youtube.com/watch?v=xxoVJQvEyEU&ab_channel=FabioAkita
-https://www.youtube.com/watch?v=MI9cdxETA4c&ab_channel=FabioAkita
-https://www.youtube.com/watch?v=2tpshOTtleM&ab_channel=FabioAkita
-https://www.youtube.com/watch?v=gYJSWs-gp1g&ab_channel=FabioAkita
+#
+#
+#
 # ============================== FIM ==============================
