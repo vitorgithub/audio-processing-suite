@@ -1,0 +1,11 @@
+1. Abrir o PowerShell como administrador
+
+2. Executar o comande:
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((Invoke-WebRequest -UseBasicParsing -Uri 'https://chocolatey.org/install.ps1').Content)
+
+3. Feche e Reabra o PowerShell como administrador.
+
+4. Verifique a Instalação e execute o comando:
+choco install ffmpeg
+
+Pronto, pode executar o convert-video-to-mp3.py agora!
