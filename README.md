@@ -16,7 +16,7 @@ Welcome to the `Video-to-Audio Converter` repository, a solution designed for ef
 
 1. **For Video Conversion:**
    - Store videos in the `videos` directory or insert YouTube URLs in the `urls.txt`.
-   - Execute the `convert-video-to-audio.py` script.
+   - Execute the `convert-video-to-mp3.py` script.
    - The converted MP3 files will be located in the `videos_in_mp3` directory.
 
 2. **For Array Generation:**
@@ -53,7 +53,7 @@ Seja bem-vindo ao repositório do `Video-to-Audio Converter`, uma solução dese
 
 1. **Para Conversão de Vídeos:**
    - Deposite vídeos no diretório `videos` ou adicione URLs do YouTube em `urls.txt`.
-   - Rode o script `convert-video-to-audio.py`.
+   - Rode o script `convert-video-to-mp3.py`.
    - Os arquivos MP3 convertidos estarão no diretório `videos_in_mp3`.
 
 2. **Para Geração de Arrays:**
