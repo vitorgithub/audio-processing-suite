@@ -1,6 +1,6 @@
 1. Abrir o PowerShell como administrador
 
-2. Executar o comande:
+2. Executar o comando:
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((Invoke-WebRequest -UseBasicParsing -Uri 'https://chocolatey.org/install.ps1').Content)
 
 3. Feche e Reabra o PowerShell como administrador.

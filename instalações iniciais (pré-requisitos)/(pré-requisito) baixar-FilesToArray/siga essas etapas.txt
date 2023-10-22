@@ -1,0 +1,13 @@
+Após instalar siga as intruções:
+
+1. Acesse a pasta Arquivos de Programas x86 
+
+2. Acesse a pasta chamada "Tiago Antonio" - autor do programa.
+
+3. Acesse InstallerFilesToArray
+
+4. Clique com o botão direito do mouse sobre o arquivo FilesToArray.exe, selecione "Enviar para" -> "Área de trabalho (criar atalho)
+
+5. Acesse a área de trabalho, recorte esse arquivo e coloque dentro da pasta "audio-processing-suite" que você clonou com o git.
+
+Pronto, agora está fácil para você usar o arquivo FilesToArray.exe sempre que precisar.
